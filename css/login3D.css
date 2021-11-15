@@ -6,7 +6,7 @@
 }
 .content{
     /* background-image: linear-gradient(to bottom,  rgba(12, 61, 194, 0.822), rgba(52, 7, 88, 0.774) ); */
-    background-image: url('/img/login--backgound.jpg');
+    background-image: url('../img/login--backgound.jpg');
     display: flex;
     align-items: center;
     justify-content: center;
